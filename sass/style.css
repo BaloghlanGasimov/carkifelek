@@ -3,10 +3,13 @@ body .btn {
   height: 30px;
   background-color: rgb(255, 255, 34);
   position: absolute;
-  top: 46%;
-  left: 37%;
+  top: 52%;
+  left: 36%;
   z-index: 1;
   border-radius: 50%;
+}
+body{
+  background-color:pink;
 }
 body .btn:hover {
   background-color: rgb(255, 255, 34);
