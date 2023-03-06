@@ -1,14 +1,14 @@
 body{
-    // background: url('img/photo-1511268011861-691ed210aae8.avif');
-    // background-size: cover;
-    // position: relative;
+    background: url('img/photo-1511268011861-691ed210aae8.avif');
+    background-size: cover;
+    position: relative;
     .btn{
         width: 30px;
         height: 30px;
         background-color: rgb(255, 255, 34);
         position: absolute;
-        top: 46%;
-        left: 37%;
+        top: 50%;
+        left: 36%;
         z-index: 1;
         border-radius: 50%;
         &:hover{
